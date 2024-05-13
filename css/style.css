@@ -2492,6 +2492,8 @@ button:focus {
   color: var(--colorWhite);
 }
 
+
+
 .tf__emargency_contact_bg span {
   font-size: 26px;
   font-weight: 800;
@@ -8848,7 +8850,7 @@ html.lenis {
 .clipped-image{
   width:300px;
   height: 300px;
-  border-radius: 50%;
+  /* border-radius: 50%; */
 }
 
 .Custom-primary-color{
@@ -8893,4 +8895,13 @@ gap: 100px;
   margin-top: 500px;
   margin-bottom: 0px;
   padding-top: 200px;
+}
+
+.mail{
+  text-decoration: none;
+  font-size: 16px;
+    margin: 0;
+    padding: 0;
+    color: var(--colorBodyText);
+
 }
