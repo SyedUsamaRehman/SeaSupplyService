@@ -1012,11 +1012,12 @@ button:focus {
 }
 
 .tf__single_blog {
-  margin-bottom: 25px;
+  margin-bottom: 0px;
+ 
 }
 
 .tf__single_blog_img {
-  height: 355px;
+  height: 255px !important;
   overflow: hidden;
   border-radius: 5px;
   position: relative;
@@ -1064,7 +1065,7 @@ button:focus {
 }
 
 .tf__single_blog_text {
-  margin-top: 15px;
+  /* margin-top: 15px; */
   padding-right: 72px;
   position: relative;
 }
